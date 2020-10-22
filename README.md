@@ -6,5 +6,5 @@ Desenvolvida com jquery e tailwindcss
 Template da aplicação
 
 <div>
-	<img src="template.png" width="400">
+	<img src="template.png">
 </div>
